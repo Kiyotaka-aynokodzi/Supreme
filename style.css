@@ -4,12 +4,11 @@
     border: 0;
     box-sizing: border-box;
     font-family: 'Space Mono', monospace;
-    color: black;
-}
+    background color:black;
 
 a {
     text-decoration: none;
-    color: black;
+    color:white;
 }
 
 li {
