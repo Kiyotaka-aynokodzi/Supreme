@@ -4,7 +4,7 @@
     border: 0;
     box-sizing: border-box;
     font-family: 'Space Mono', monospace;
-    color: white;
+    color: black;
 }
 
 a {
@@ -19,7 +19,6 @@ li {
 body {
     height: 100%;
     line-height: 1;
-    background-image: url("./img/background.png");
 }
 
 .logo {
